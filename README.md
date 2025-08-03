@@ -1,6 +1,6 @@
-#PlagiaScope
+# PlagiaScope
 
-##Système Avancé de Détection de Plagiat et d'Analyse de Contenu Généré par IA
+## Système Avancé de Détection de Plagiat et d'Analyse de Contenu Généré par IA
 
 
 
@@ -244,6 +244,7 @@ Interface de Gestion des Documents Locaux : Permettre aux utilisateurs de visual
 Amélioration de la Détection IA : Explorer d'autres modèles, ajuster les seuils de manière dynamique, ou fournir plus de détails sur l'analyse IA.
 ## 10. Auteur
 FILALI ANSARI MERYEM
+OULKIASS SALMA 
 ## 11. Licence
 Ce projet est actuellement sans licence spécifiée. Veuillez ajouter un fichier LICENSE si vous souhaitez définir les termes d'utilisation et de distribution.
 

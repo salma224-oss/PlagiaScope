@@ -1,6 +1,6 @@
-# PlagiaScope
+#PlagiaScope
 
-## Système Avancé de Détection de Plagiat et d'Analyse de Contenu Généré par IA
+##Système Avancé de Détection de Plagiat et d'Analyse de Contenu Généré par IA
 
 
 
@@ -247,5 +247,6 @@ FILALI ANSARI MERYEM
 ## 11. Licence
 Ce projet est actuellement sans licence spécifiée. Veuillez ajouter un fichier LICENSE si vous souhaitez définir les termes d'utilisation et de distribution.
 
-#   P l a g i a S c o p e  
+#   P l a g i a S c o p e 
+ 
  

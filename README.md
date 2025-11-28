@@ -123,7 +123,7 @@ Avec l'environnement virtuel activé, installez toutes les bibliothèques Python
 pip install -r requirements.txt
 ```
 Exécution du Script de Configuration
-Exécutez le script setup.py pour télécharger les données NLTK nécessaires (pour le traitement du langage naturel) et initialiser la base de données SQLite :
+Exécutez le script setup.py pour télécharger les données NLTK nécessaires (pour le traitement du langage naturel) et initialiser la base de données SQLite : 
 
 ```bash
 

@@ -248,6 +248,5 @@ OULKIASS SALMA
 ## 11. Licence
 Ce projet est actuellement sans licence spécifiée. Veuillez ajouter un fichier LICENSE si vous souhaitez définir les termes d'utilisation et de distribution.
 
-#   P l a g i a S c o p e 
  
  
